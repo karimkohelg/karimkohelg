@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @karimkohelg
+- 👀 This is my gravitate github account
+- 🌱 I’m currently an AI engineer
+- 📫 You can reach me at karim@gravitate.ai
